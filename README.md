@@ -1,6 +1,6 @@
 # Quantopian-algo_trading
 
-**Project Title: ** Building a Sophisticated Stock Price Prediction Model on Quantopian
+**Project Title:** Building a Sophisticated Stock Price Prediction Model on Quantopian
 
 **Project Description:** This project demonstrates how to build a robust stock price prediction model within the Quantopian algorithmic trading platform. It combines the power of Quantopian's features with advanced Python libraries, financial ratios, and machine learning techniques.
 
